@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{7A89F367-2430-418C-AAEF-B19D1D55E1DB}|Default">
+  <MonoDevelop.Ide.ItemProperties.ToDoList.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ToDoList" expanded="True">
+            <Node name="ToDoList" expanded="True" />
+            <Node name="ToDoList.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ToDoList.Android PreferredExecutionTarget="Android.Resizable_Experimental_API_UpsideDownCake" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

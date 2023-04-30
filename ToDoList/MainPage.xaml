@@ -1,0 +1,32 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:chart="clr-namespace:Syncfusion.SfChart.XForms;assembly=Syncfusion.SfChart.XForms"
+             x:Class="ToDoList.MainPage"
+             BackgroundColor="#F5DEB3">
+
+    <StackLayout>
+        <!-- Déclaration du bouton -->
+       <Button Text="Ajouter une tâche" Clicked="AddTaskButton_Clicked"/>
+        <!-- ListView pour afficher les tâches -->
+        <ListView x:Name="TaskListView" ItemTapped="TaskListView_ItemTapped">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="2*" />
+                                <ColumnDefinition Width="2*" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Label Text="{Binding TaskName}" VerticalOptions="Center" HorizontalOptions="Start" />
+                            <Label Text="{Binding Status}" VerticalOptions="Center" HorizontalOptions="Center" Grid.Column="1" />
+                            <Button Text="Delete" Clicked="DeleteTaskButton_Clicked" CommandParameter="{Binding .}" Grid.Column="2" />
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </StackLayout>
+
+</ContentPage>

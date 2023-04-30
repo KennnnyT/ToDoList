@@ -1,0 +1,15 @@
+/Users/Kent/Desktop/ToDoList/ToDoList/bin/Debug/netstandard2.0/ToDoList.deps.json
+/Users/Kent/Desktop/ToDoList/ToDoList/bin/Debug/netstandard2.0/ToDoList.dll
+/Users/Kent/Desktop/ToDoList/ToDoList/bin/Debug/netstandard2.0/ref/ToDoList.dll
+/Users/Kent/Desktop/ToDoList/ToDoList/bin/Debug/netstandard2.0/ToDoList.pdb
+/Users/Kent/Desktop/ToDoList/ToDoList/obj/Debug/netstandard2.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Kent/Desktop/ToDoList/ToDoList/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/Kent/Desktop/ToDoList/ToDoList/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/Kent/Desktop/ToDoList/ToDoList/obj/Debug/netstandard2.0/ToDoList.AssemblyInfoInputs.cache
+/Users/Kent/Desktop/ToDoList/ToDoList/obj/Debug/netstandard2.0/ToDoList.AssemblyInfo.cs
+/Users/Kent/Desktop/ToDoList/ToDoList/obj/Debug/netstandard2.0/ToDoList.csproj.CoreCompileInputs.cache
+/Users/Kent/Desktop/ToDoList/ToDoList/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/Kent/Desktop/ToDoList/ToDoList/obj/Debug/netstandard2.0/ToDoList.dll
+/Users/Kent/Desktop/ToDoList/ToDoList/obj/Debug/netstandard2.0/ref/ToDoList.dll
+/Users/Kent/Desktop/ToDoList/ToDoList/obj/Debug/netstandard2.0/ToDoList.pdb
+/Users/Kent/Desktop/ToDoList/ToDoList/obj/Debug/netstandard2.0/ToDoList.csproj.AssemblyReference.cache

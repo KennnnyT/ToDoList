@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Kent/Desktop/ToDoList/ToDoList.Android/ToDoList.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/Kent/Desktop/ToDoList/ToDoList.Android/ToDoList.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Kent/Desktop/ToDoList/ToDoList.Android/ToDoList.Android.csproj",
+        "projectName": "ToDoList.Android",
+        "projectPath": "/Users/Kent/Desktop/ToDoList/ToDoList.Android/ToDoList.Android.csproj",
+        "packagesPath": "/Users/Kent/.nuget/packages/",
+        "outputPath": "/Users/Kent/Desktop/ToDoList/ToDoList.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/Kent/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {
+              "/Users/Kent/Desktop/ToDoList/ToDoList/ToDoList.csproj": {
+                "projectPath": "/Users/Kent/Desktop/ToDoList/ToDoList/ToDoList.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "SkiaSharp.Views.Forms": {
+              "target": "Package",
+              "version": "[2.88.3, )"
+            },
+            "Syncfusion.Xamarin.SfChart": {
+              "target": "Package",
+              "version": "[21.1.41, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/Kent/Desktop/ToDoList/ToDoList/ToDoList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Kent/Desktop/ToDoList/ToDoList/ToDoList.csproj",
+        "projectName": "ToDoList",
+        "projectPath": "/Users/Kent/Desktop/ToDoList/ToDoList/ToDoList.csproj",
+        "packagesPath": "/Users/Kent/.nuget/packages/",
+        "outputPath": "/Users/Kent/Desktop/ToDoList/ToDoList/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Kent/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microcharts": {
+              "target": "Package",
+              "version": "[0.9.5.9, )"
+            },
+            "Microcharts.Forms": {
+              "target": "Package",
+              "version": "[1.0.0-preview1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "SkiaSharp.Views.Forms": {
+              "target": "Package",
+              "version": "[2.88.3, )"
+            },
+            "Syncfusion.Xamarin.SfChart": {
+              "target": "Package",
+              "version": "[21.1.41, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[6.0.0-preview.4.21253.7, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.5, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2578, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.9.141-beta, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.106/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

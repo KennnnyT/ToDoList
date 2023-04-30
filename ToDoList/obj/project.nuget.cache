@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "tc1imrAUp+GZEOLMzpAgcIZ9Qx2oUaeJMhnfTB7muaLeN8AnMczwHG+5Psu9iW3odrHQ7nFFPRfPAMGnGY/RjQ==",
+  "success": true,
+  "projectFilePath": "/Users/Kent/Desktop/ToDoList/ToDoList/ToDoList.csproj",
+  "expectedPackageFiles": [
+    "/Users/Kent/.nuget/packages/microcharts/0.9.5.9/microcharts.0.9.5.9.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/microcharts.forms/1.0.0-preview1/microcharts.forms.1.0.0-preview1.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/skiasharp/2.88.3/skiasharp.2.88.3.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/skiasharp.nativeassets.macos/2.88.3/skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/skiasharp.nativeassets.win32/2.88.3/skiasharp.nativeassets.win32.2.88.3.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/skiasharp.views.forms/2.88.3/skiasharp.views.forms.2.88.3.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/sqlite-net-pcl/1.9.141-beta/sqlite-net-pcl.1.9.141-beta.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/sqlitepclraw.bundle_green/2.1.2/sqlitepclraw.bundle_green.2.1.2.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/sqlitepclraw.core/2.1.2/sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.2/sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.2/sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/syncfusion.licensing/21.1.41/syncfusion.licensing.21.1.41.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/syncfusion.xamarin.core/21.1.41/syncfusion.xamarin.core.21.1.41.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/syncfusion.xamarin.sfchart/21.1.41/syncfusion.xamarin.sfchart.21.1.41.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/system.componentmodel.annotations/6.0.0-preview.4.21253.7/system.componentmodel.annotations.6.0.0-preview.4.21253.7.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/xamarin.essentials/1.7.5/xamarin.essentials.1.7.5.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/xamarin.forms/5.0.0.2578/xamarin.forms.5.0.0.2578.nupkg.sha512"
+  ],
+  "logs": []
+}

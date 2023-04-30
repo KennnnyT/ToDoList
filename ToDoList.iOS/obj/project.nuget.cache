@@ -1,0 +1,58 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uuh5Jl/gjpJuSyh550595FmtTMlxxuLidXxsz+Q0ibbDagQmzgkoiyJ6H7onh82icWfquw/ED/4F+8AfmhoRrQ==",
+  "success": true,
+  "projectFilePath": "/Users/Kent/Desktop/ToDoList/ToDoList.iOS/ToDoList.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/Kent/.nuget/packages/microcharts/0.9.5.9/microcharts.0.9.5.9.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/microcharts.forms/1.0.0-preview1/microcharts.forms.1.0.0-preview1.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/microcharts.ios/1.0.0-preview1/microcharts.ios.1.0.0-preview1.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/skiasharp/2.88.3/skiasharp.2.88.3.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/skiasharp.nativeassets.ios/2.88.3/skiasharp.nativeassets.ios.2.88.3.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/skiasharp.views/2.88.3/skiasharp.views.2.88.3.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/skiasharp.views.forms/2.88.3/skiasharp.views.forms.2.88.3.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/sqlite-net-pcl/1.9.141-beta/sqlite-net-pcl.1.9.141-beta.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/sqlitepclraw.bundle_green/2.1.2/sqlitepclraw.bundle_green.2.1.2.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/sqlitepclraw.core/2.1.2/sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/sqlitepclraw.provider.sqlite3/2.1.2/sqlitepclraw.provider.sqlite3.2.1.2.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/syncfusion.licensing/21.1.41/syncfusion.licensing.21.1.41.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/syncfusion.xamarin.core/21.1.41/syncfusion.xamarin.core.21.1.41.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/syncfusion.xamarin.sfchart/21.1.41/syncfusion.xamarin.sfchart.21.1.41.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/system.componentmodel.annotations/6.0.0-preview.4.21253.7/system.componentmodel.annotations.6.0.0-preview.4.21253.7.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/Kent/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2578 to 5.0.0.2012. Reference the package directly from the project to select a different version. \n ToDoList.iOS -> ToDoList -> Xamarin.Forms (>= 5.0.0.2578) \n ToDoList.iOS -> Xamarin.Forms (>= 5.0.0.2012)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.7.5 to 1.6.1. Reference the package directly from the project to select a different version. \n ToDoList.iOS -> ToDoList -> Xamarin.Essentials (>= 1.7.5) \n ToDoList.iOS -> Xamarin.Essentials (>= 1.6.1)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}
